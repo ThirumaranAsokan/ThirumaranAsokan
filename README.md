@@ -1,5 +1,5 @@
 
-# 👋 Hi, I’m @ThirumaranAsokan
+# 👋 Hi, I’m @Thirumaran
 
 #### Full stack Developer; started coding from 2022 for fun but addicted now.😎[Non technical background]
 #### Github is like an addiction to me cuz its a collective knowledge of all humans . 
