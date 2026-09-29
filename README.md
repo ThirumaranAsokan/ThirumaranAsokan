@@ -12,7 +12,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ThirumaranAsokan&theme=dark&hide_border=false)<br/>
 
 
-[![](https://visitcount.itsvg.in/api?id=ThirumaranAsokan&icon=0&color=0)](https://visitcount.itsvg.in)
+![Thiru's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=ThirumaranAsokan&show_icons=true&theme=tokyonight)
 ## 📫 How to reach me : 
 #### Contact Email: thirumaranasokan1210@gmail.com
 ## 🌐 Socials:
